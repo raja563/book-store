@@ -1,0 +1,76 @@
+let List=[
+    {
+        "id": 1,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 432,
+        "category": "paid",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 2,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 320,
+        "category": "paid",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 3,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 4,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 5,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "paid",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 6,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "paid",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 7,
+        "name": "C Language",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "paid",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 8,
+        "name": " Core Java ",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    },
+    {
+        "id": 9,
+        "name": "Python Basic",
+        "title": "C Language is a high level programming language",
+        "price": 0,
+        "category": "free",
+        "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=0&uuid=c9ec7604-5de6-4d4e-adf4-a5430b1da2ed"
+    }
+]
+
+export default List;
